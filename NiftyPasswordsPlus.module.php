@@ -6,16 +6,6 @@ use Processwire\WireData;
 use Processwire\Module;
 use Processwire\ConfigurableModule;
 
-
-/**
- * Module to customise and extend the operation of the ProcessForgotPassword module for Processwire.
- *
- * This module is a paid product and not part of Processwire.
- *
- *        >>>>> Please do not redistribute <<<<<
- * Copyright 2020 Netcarver & Pete from Nifty Solutions
- *
- */
 class NiftyPasswordsPlus extends WireData implements Module, ConfigurableModule
 {
     public static function getModuleInfo() {
