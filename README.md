@@ -28,4 +28,4 @@ After purchase you will have access to the latest version of the pack as a singl
 
 You will need to acknowledge the disclaimer, enabling the module in order to proceed.
 
-### More details and screenshots available at [gumroad](https://gumroad.com/nifty)
+### More details and screenshots available at our [LemonSqueezy store](https://netcarving.com)
